@@ -10,7 +10,7 @@ background-color: #f4f4f4;
 }
 
 header {
-    background-color: hwb(54 32% 20%);
+    background-color: #ccc052;
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -24,7 +24,7 @@ header {
 }
 
 .section {
-    background-color: hsl(263, 32%, 55%);
+    background-color: #8468b1;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
