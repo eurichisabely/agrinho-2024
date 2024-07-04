@@ -17,7 +17,7 @@ overflow: hidden;
 padding: 20px;
 }
 .section {
-background-color: #fff;
+background-color: hsl(263, 57%, 53%);
 padding: 20px;
 margin-bottom: 20px;
 border-radius: 5px;
@@ -27,6 +27,6 @@ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 color: #333;
 }
 .section p {
-color: #666;
+color: #ad7917;
 }
 </style>
